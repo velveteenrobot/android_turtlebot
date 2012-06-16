@@ -1,5 +1,5 @@
 <package>
-  <description brief="App Manager for Android">
+  <description brief="Turtlebot Exhibit">
 
     Client side code for accessing the app manager from Android, plus some client apps which use it.
 

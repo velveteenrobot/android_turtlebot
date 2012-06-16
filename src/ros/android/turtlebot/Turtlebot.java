@@ -26,7 +26,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
-package ros.android.teleop;
+package ros.android.turtlebot;
 
 import android.os.Bundle;
 import android.util.Log;
@@ -46,7 +46,7 @@ import ros.android.views.JoystickView;
 /**
  * @author kwc@willowgarage.com (Ken Conley)
  */
-public class Teleop extends RosAppActivity {
+public class Turtlebot extends RosAppActivity {
   private SensorImageView cameraView;
   private String robotAppName;
   private String cameraTopic;
